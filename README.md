@@ -15,6 +15,8 @@
 
 Aplicação desenvolvida para lidar com dados, armazenar e gerenciar informações de maneira eficiente.
 
+OBS: Modelagem ao fim do READEME.md
+
 <hr>
 
 <h4>Tecnologias 🚀</h4>
@@ -52,9 +54,10 @@ $ npm start
 by Roni Febrone<br>
 <div>
 	<a href="https://www.linkedin.com/in/roni-febrone-97b007275/"> 
-		<img width="32px" src="https://media.licdn.com/dms/image/D4E03AQH9ZVlkc3Ts1A/profile-displayphoto-shrink_800_800/0/1683079137146?e=1713398400&v=beta&t=HofEme0JOWWTK4hE3TJiEwOXiaEUWKhdtnGskv7170s" alt="LinkedIn">
+		<img width="32px" src="https://media.licdn.com/dms/image/D4E03AQF9iWma3W3jBQ/profile-displayphoto-shrink_800_800/0/1710366878152?e=1719446400&v=beta&t=1SlHD8NVc7FLLRHqWy8Edp8oueINyk1VBk1m9xy1aQU" alt="LinkedIn">
 	</a>
 </div>
-<div> 
-    <img width=""src="./img/DB/Modelagem.svg" alt="modelagemDB">
+<div align="center"> 
+	<p> Modelagem do banco de dados </p>
+    <img width="720px"src="./img/DB/ModelagemDB.svg" alt="modelagemDB">
 </div>
