@@ -1,5 +1,5 @@
-<div align="center">
-	<h1>API-Aluno</h1>
+ <div align="center">
+	<h1>API REST FULL de um E-commerce</h1>
 	<br>
 	<p align="center">
 		<a href="https://www.linkedin.com/in/roni-febrone-97b007275/">
@@ -13,7 +13,9 @@
 
 <h4>Descrição 📄</h4>
 
-API desenvolvida para gerenciar alunos, armazenando e manipulando informações sobre eles de forma eficiente.
+Aplicação desenvolvida para lidar com dados, armazenar e gerenciar informações de maneira eficiente.
+
+OBS: Modelagem ao fim do READEME.md
 
 <hr>
 
@@ -39,24 +41,10 @@ $ git clone https://github.com/RoniFebrone/<repo_name>.git
 $ cd <repo_name>
 
 # instale as dependências
-$ yarn
+$ npm install
 
-# Faça a configuração de seu banco de dados
-# Execute o comando npx knex migrate:up
-# O comando devera criar a tabela em seu banco de dados. 
-
-# rode a API e faça os testes.
-$ yarn start
-
-# Para testar todos os testes, execute:
-$ yarn test
-
-# Se quiser rodar apenas os testes unitários, execute:
-$ npx jest -t 'Unit - '
-
-# Para os testes de integração, execute:
-$ npx jest -t 'Int - '
-
+# rode o server
+$ npm start
 
 ```
 - Acesse a aplicação
@@ -69,4 +57,7 @@ by Roni Febrone<br>
 		<img width="32px" src="https://media.licdn.com/dms/image/D4E03AQF9iWma3W3jBQ/profile-displayphoto-shrink_800_800/0/1710366878152?e=1719446400&v=beta&t=1SlHD8NVc7FLLRHqWy8Edp8oueINyk1VBk1m9xy1aQU" alt="LinkedIn">
 	</a>
 </div>
+<div align="center"> 
+	<p> Modelagem do banco de dados </p>
+    <img width="720px"src="./img/DB/ModelagemDB.svg" alt="modelagemDB">
 </div>
